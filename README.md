@@ -1,4 +1,4 @@
-# EuroSAT Land Use Classification
+# EuroSAT Land-Use Classification with Transfer Learning
 
 Classificação de imagens de satélite utilizando Deep Learning e Transfer Learning. Este projeto identifica 10 classes de uso do solo (como Florestas, Rios, Rodovias e Áreas Industriais) utilizando o dataset **EuroSAT (RGB)**.
 
