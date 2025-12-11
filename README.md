@@ -27,7 +27,7 @@ O projeto seguiu um fluxo de trabalho profissional de Visão Computacional:
 
 ## Como executar
 1. Clone o repositório.
-2. Instale as dependências com: `pip install tensorflow==2.20.0` `pip install --upgrade protobuf` `pip install -r requirements.txt`
+2. Instale as dependências com: `pip install tensorflow==2.20.0` `pip install -r requirements.txt` `pip install --upgrade protobuf` 
 4. Execute o notebook
 
 ---
