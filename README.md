@@ -27,8 +27,10 @@ O projeto seguiu um fluxo de trabalho profissional de Visão Computacional:
 
 ## Como executar
 1. Clone o repositório.
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o notebook
+2. Instale as dependências com: `pip install tensorflor==2.20.0`
+                                `pip install --upgrade protobuf`
+                                `pip install -r requirements.txt`
+4. Execute o notebook
 
 ---
 *Desenvolvido como parte de um estudo prático sobre Redes Neurais Convolucionais (CNNs).*
