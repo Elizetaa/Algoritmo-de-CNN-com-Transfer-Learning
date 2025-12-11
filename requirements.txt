@@ -1,5 +1,4 @@
 # Dependências principais para o pipeline
-tensorflow
 numpy
 pandas
 
