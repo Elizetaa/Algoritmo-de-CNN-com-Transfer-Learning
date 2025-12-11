@@ -1,0 +1,15 @@
+# Dependências principais para o pipeline
+tensorflow
+numpy
+pandas
+
+# Ferramentas para manipulação e visualização de dados
+matplotlib
+Pillow
+scikit-learn
+
+# Para facilitar a leitura de datasets do TensorFlow (EuroSAT)
+tensorflow-datasets
+
+# Para baixar o dataset do Kaggle (se ainda for usar a primeira versão do código)
+kagglehub
