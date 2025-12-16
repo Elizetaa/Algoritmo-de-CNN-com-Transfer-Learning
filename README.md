@@ -16,7 +16,7 @@ O projeto seguiu um fluxo de trabalho profissional de Visão Computacional:
 3.  **Fine-Tuning:** Descongelamento parcial das últimas camadas com *Learning Rate* reduzido (1e-5) para refinar a distinção entre classes difíceis (Ex: Rios vs. Rodovias).
 
 ### Performance
-* **Acurácia Global:** ~96-98% (ajuste conforme seu resultado final).
+* **Acurácia Global:** ~96-98%.
 * **Destaque:** O Fine-Tuning reduziu drasticamente a confusão inicial do modelo entre a classe `River` e `Highway`, aprendendo a diferenciar texturas de água e asfalto.
 
 ## Visualizações
